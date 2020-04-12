@@ -1,0 +1,3 @@
+﻿  Sorting Algorithms.cpp
+C:\Users\degin\Desktop\Sorting Algorithms\Sorting Algorithms\Sorting Algorithms.cpp(2,10): error C2006: '#include': expected "FILENAME" or <FILENAME>
+C:\Users\degin\Desktop\Sorting Algorithms\Sorting Algorithms\Sorting Algorithms.cpp(2,10): fatal error C1083: Cannot open include file: '': No such file or directory
